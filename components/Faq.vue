@@ -1,9 +1,16 @@
 <template>
-  <div>
+  <div class="pt-10">
+    <h1
+      class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6l dark:text-white"
+    >
+      Frequently ask questions
+    </h1>
+    <p>Lorem ipsum do color sit amet</p>
     <div
       id="accordion-color"
       data-accordion="collapse"
       data-active-classes="bg-blue-100 dark:bg-gray-800 text-blue-600 dark:text-white"
+      class="pt-10"
     >
       <h2 id="accordion-color-heading-1">
         <button
